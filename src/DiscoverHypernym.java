@@ -1,5 +1,4 @@
 
-//Erez Chamilevsky 206399867 chamile1
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;

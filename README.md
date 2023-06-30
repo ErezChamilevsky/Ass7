@@ -1,6 +1,7 @@
-## Getting Started
+## Assingment 7
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A program of using regular expressions.
+OOP course, Bar-Ilan University.
 
 ## Folder Structure
 
